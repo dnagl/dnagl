@@ -6,8 +6,10 @@
 
 # 🤓 About Me
 
-I am a software engineer located in Austria.
-After successfully passing my three exams for my apprenticeships I now started studying economics at the [Fernuni Hagen](https://www.fernuni-hagen.de/)
+Hey!
+I'm David, a Product Owner working in electiric mobility.
+After working a few years as a software engineer, I decided to explore the field of Product Ownership.
+Anyway, I'm still a passionate software engineer in my spare time. I ejnoy exploring and playing with new technoligies and concepts.
 
 ## 📚 Passed exams
 
