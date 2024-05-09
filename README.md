@@ -6,10 +6,9 @@
 
 # 🤓 About Me
 
-Hey!
-I'm David, a Product Owner working in electiric mobility.
-After working a few years as a software engineer, I decided to explore the field of Product Ownership.
-Anyway, I'm still a passionate software engineer in my spare time. I ejnoy exploring and playing with new technoligies and concepts.
+Greetings,
+
+I'm David Nagl, a seasoned Senior Product Owner specializing in electric mobility. With a background in software engineering spanning several years, I transitioned into the realm of Product Ownership to further enrich my professional journey. Nonetheless, I maintain a fervent interest in software engineering, dedicating my spare time to exploring and experimenting with cutting-edge technologies and concepts.
 
 ## 📚 Passed exams
 
@@ -20,7 +19,7 @@ Anyway, I'm still a passionate software engineer in my spare time. I ejnoy explo
 
 ---
 
-# ✔ Tech Stack
+# 🛠️ Tech Stack
 
 ## 🗣 Languages
 
@@ -31,6 +30,7 @@ Anyway, I'm still a passionate software engineer in my spare time. I ejnoy explo
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px">](https://www.java.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px">](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45px" />](https://kotlinlang.org/)&nbsp;&nbsp;&nbsp;
 
 ## 🖼 Frameworks
 
@@ -39,8 +39,9 @@ Anyway, I'm still a passionate software engineer in my spare time. I ejnoy explo
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45px">](https://dotnet.microsoft.com/download)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45px">](https://angular.io/)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px">](https://reactjs.org/)&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45px">](https://vuejs.org/)&nbsp;&nbsp;&nbsp;
 
-# 🛠 Tool Stack
+## 🔧 Tool Stack
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px">](https://git-scm.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="45px">](https://www.atlassian.com/de/software/confluence)&nbsp;&nbsp;&nbsp;
